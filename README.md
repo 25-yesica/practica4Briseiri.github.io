@@ -103,11 +103,6 @@ briseiri León
     <p>&copy; 2025 Mi Nombre. Todos los derechos reservados.</p>
   </footer>
 
-  <script>
-    function mostrarMensaje() {
-      alert("¡Hola! Este es un mensaje desde JavaScript.");
-    }
-  </script>
-
+ 
 </body>
 </html>
